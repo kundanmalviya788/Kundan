@@ -1,5 +1,7 @@
 
 
+
+
 # Study Timer Smart Contract
 
 ## Vision
