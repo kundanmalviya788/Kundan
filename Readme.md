@@ -1,6 +1,4 @@
-Certainly! Below is the README file for your `StudyTimer` smart contract:
 
----
 
 # Study Timer Smart Contract
 
